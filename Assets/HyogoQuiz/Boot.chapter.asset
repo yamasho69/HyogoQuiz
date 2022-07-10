@@ -405,9 +405,79 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u9593\u629C\u3051"
+      - 
+      - Se
+      - "\u9593\u629C\u30511.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u30CB\u30E5\u30C3"
+      - 
+      - Se
+      - "\u30CB\u30E5\u30C33.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u30C9\u30F3\u30C9\u30F3\u30D1\u30D5\u30D1\u30D5"
+      - 
+      - Se
+      - "\u30C9\u30F3\u30C9\u30F3\u30D1\u30D5\u30D1\u30D5.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u30C1\u30FC\u30F3"
+      - 
+      - Se
+      - "\u30C1\u30FC\u30F31.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u30AF\u30A4\u30BA\u4E0D\u6B63\u89E3"
+      - 
+      - Se
+      - "\u30AF\u30A4\u30BA\u4E0D\u6B63\u89E31.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u30AF\u30A4\u30BA\u6B63\u89E3"
+      - 
+      - Se
+      - "\u30AF\u30A4\u30BA\u6B63\u89E31.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u30AF\u30A4\u30BA\u51FA\u984C"
+      - 
+      - Se
+      - "\u30AF\u30A4\u30BA\u51FA\u984C1.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/HyogoQuiz/HyogoQuiz.xls:Sound
     type: 1
-    textLength: 57
+    textLength: 171
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -421,9 +491,36 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - nomal
+      - Bool
+      - FALSE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - hard
+      - Bool
+      - FALSE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - point
+      - Int
+      - 0
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/HyogoQuiz/HyogoQuiz.xls:Param
     type: 1
-    textLength: 22
+    textLength: 58
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
