@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f183272568e6f94382e3b59c0de76cd, type: 3}
+  m_Name: HyogoQuiz.project
+  m_EditorClassIdentifier: 
+  excelList: []
+  chapterDataList:
+  - chapterName: Boot
+    excelList:
+    - {fileID: 102900000, guid: 823e52f4236c03d43a6bb02f2e8f4dc5, type: 3}
+    excelDir: {fileID: 0}
+  checkWaitType: 0
+  checkWhiteSpaceEndOfCell: 1
+  checkTextCount: 1
+  checkTextCountAllLanguage: 0
+  scenarios: {fileID: 11400000, guid: d8e58ea458e751349ab6a776934ef509, type: 2}
+  autoImportType: 1
+  convertPath: 
+  convertVersion: 0
+  isAutoUpdateVersionAfterConvert: 0
+  isAutoConvertOnImport: 0
+  customInportSpriteFolders:
+  - {fileID: 102900000, guid: e6bc37d40e47eb34d81edca5bb673844, type: 3}
+  - {fileID: 102900000, guid: 1fa2039e53adadb42b4f25d802dd725f, type: 3}
+  - {fileID: 102900000, guid: ff3dd785ff931a84a8758b62c9ec9964, type: 3}
+  - {fileID: 102900000, guid: 7eacf4c15ce6be14abcde21151e453e0, type: 3}
+  - {fileID: 102900000, guid: a171bf3ee8a79864d8cbabc3e3e9f416, type: 3}
+  customInportAudioFolders:
+  - {fileID: 102900000, guid: 2e7d45f4614c5c34dbe30d8102563018, type: 3}
+  - {fileID: 102900000, guid: 3da8c3b62f164154f9bb1a601bd15a0e, type: 3}
+  - {fileID: 102900000, guid: dec171963659f544c9b7e3127742ba3d, type: 3}
+  - {fileID: 102900000, guid: 4f2bd86d6c8943640847c6a5baa97063, type: 3}
+  customInportMovieFolders: []
+  quickImport: 0
+  quickImportType: 0
+  parseFormula: 0
+  parseNumreic: 0
+  checkBlankRowCountOnImport: 1000
+  checkColumnCountOnImport: 500
+  enableCommentOutOnImport: 1
+  recourceDir: {fileID: 0}
+  checkExt: 0
+  customProjectSetting: {fileID: 11400000, guid: ae59ce621a5df2944b789c6d139330ac, type: 2}
