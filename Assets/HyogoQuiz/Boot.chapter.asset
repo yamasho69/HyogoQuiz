@@ -48,12 +48,12 @@ MonoBehaviour:
       strings:
       - "\u30B7\u30E3\u30F3\u30B7\u30E3\u30F3"
       - 
-      - "\u901A\u5E38"
+      - "\u901A\u5E38OP"
       - 
       - 
       - 
       - 
-      - 
+      - 1.3
       - 
       - ShanShan/syansyan_nomal.png
       isEmpty: 0
@@ -64,12 +64,12 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - "\u958B\u53E3"
+      - "\u958B\u53E3OP"
       - 
       - 
       - 
       - 
-      - 
+      - 1.3
       - 
       - ShanShan/syansyan_mouthopen.png
       isEmpty: 0
@@ -80,12 +80,12 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - "\u30D0\u30C4"
+      - "\u30D0\u30C4OP"
       - 
       - 
       - 
       - 
-      - 
+      - 1.3
       - 
       - ShanShan/syansyan_batsu.png
       isEmpty: 0
@@ -96,12 +96,76 @@ MonoBehaviour:
       strings:
       - 
       - 
+      - "\u30D0\u30C4\u958B\u53E3OP"
+      - 
+      - 
+      - 
+      - 
+      - 1.3
+      - 
+      - ShanShan/syansyan_batsu_mouthopen.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - "\u901A\u5E38"
+      - -120
+      - 70
+      - 
+      - 
+      - .5
+      - 
+      - ShanShan/syansyan_nomal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - 
+      - 
+      - "\u958B\u53E3"
+      - -120
+      - 70
+      - 
+      - 
+      - .5
+      - 
+      - ShanShan/syansyan_mouthopen.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - "\u30D0\u30C4"
+      - -120
+      - 70
+      - 
+      - 
+      - .5
+      - 
+      - ShanShan/syansyan_batsu.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
       - "\u30D0\u30C4\u958B\u53E3"
+      - -120
+      - 70
       - 
       - 
-      - 
-      - 
-      - 
+      - .5
       - 
       - ShanShan/syansyan_batsu_mouthopen.png
       isEmpty: 0
@@ -109,7 +173,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/HyogoQuiz/HyogoQuiz.xls:Character
     type: 1
-    textLength: 292
+    textLength: 476
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -150,9 +214,580 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u767B\u308A\u7AAF"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Noborigama.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u30CE\u30B8\u30AE\u30AF"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - nojigiku.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u5927\u9CF4\u9580\u6A4B"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Ohnarutokyo.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u5C0F\u91CE\u5E02"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Ono_Soroban.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u30DD\u30FC\u30C8\u30BF\u30EF\u30FC\u591C"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - PortTower_night.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u5B8D\u7C9F"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Shiso.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u91A4\u6CB9\u8CC7\u6599\u9928"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Shoyu_Museum.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u5B9D\u585A\u5927\u5287\u5834"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - TakarazukaDaigekijo.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u7AF9\u7530\u57CE\u8DE1"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Takedajoseki.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u4E39\u6CE2\u7ACB\u676D\u713C"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "TanbaTachikuiyaki_\u4E39\u6CE2\u7ACB\u676D\u713C_\u58FA \u300C\u5EB7\u6C38\u4E09\u5E74\u7532\u7533\u516D\u6708\u4E0A\u65EC\u300D\u9298\u3000\u5357\u5317\u671D\u6642\u4EE3\uFF081344\u5E74\uFF09
+        \u7BB1\u6839\u7F8E\u8853\u9928\u8535.png"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - "\u624B\u585A\u6CBB\u866B\u8A18\u5FF5\u9928"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - TezukaOsamuKinenkan.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - "\u30B3\u30FC\u30D2\u30FC\u535A\u7269\u9928"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - ucc.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - "\u990A\u7236"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Yabu.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - "\u5357\u4EAC\u753A"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - a89.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - "\u660E\u77F3\u6D77\u5CE1\u5927\u6A4B"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - AkashiKaikyoOhhashi.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - "\u8D64\u7A42"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Akoh.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - "\u671D\u6765"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Asago.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - "\u30DD\u30FC\u30C8\u30BF\u30EF\u30FC\u663C"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - b10.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - "\u64AD\u5DDE\u305D\u308D\u3070\u3093"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - BanshuSoroban.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - "\u98A8\u898B\u9D8F\u306E\u5BB6"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - c44.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - "\u9577\u5B89\u9580"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Choanmon.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - "\u795E\u6238\u7A7A\u6E2F"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - d58.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - "\u83CA\u6B63\u5B97\u9152\u9020\u8A18\u5FF5\u9928"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "f31\u83CA\u6B63\u5B97\u9152\u9020\u8A18\u5FF5\u9928.png"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - "\u30D5\u30A1\u30C3\u30B7\u30E7\u30F3\u7F8E\u8853\u9928"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Fashon_Museum.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - "\u82B1\u306E\u307F\u3061"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Hananomichi.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - "\u59EB\u8DEF\u57CE"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - HImejijo.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - "\u6C37\u30CE\u5C71"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Hyonosen.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - "\u307B\u3063\u3068\u3082\u3063\u3068\u30D5\u30A3\u30FC\u30EB\u30C9"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - i74.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - "\u304F\u304E\u716E"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Ikanago.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - "\u51FA\u77F3\u713C"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - IzushiYaki.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings:
+      - "\u304B\u3064\u3081\u3057"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Katsumeshi.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings:
+      - "\u795E\u6238\u6D77\u6D0B\u535A\u7269\u9928"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - KawasakiWorld.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - "\u770C\u5E81"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Kencho.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 35
+      strings:
+      - "\u770C\u306E\u65D7"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Kenki.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings:
+      - "\u5317\u91CE\u7570\u4EBA\u9928\u8857"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - KitanoStreet.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - "\u7532\u5B50\u5712"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Koshien.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 38
+      strings:
+      - "\u30B3\u30A6\u30CE\u30C8\u30EA"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Kounotori.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 39
+      strings:
+      - "\u30AF\u30B9\u30CE\u30AD"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Kusunoki.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/HyogoQuiz/HyogoQuiz.xls:Texture
     type: 1
-    textLength: 139
+    textLength: 931
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -402,6 +1037,8 @@ MonoBehaviour:
       - 
       - Se
       - "\u3061\u3087\u3053\u3063\u3068\u89E6\u308B.mp3"
+      - 
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -412,6 +1049,8 @@ MonoBehaviour:
       - 
       - Se
       - "\u9593\u629C\u30511.mp3"
+      - 
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -422,6 +1061,8 @@ MonoBehaviour:
       - 
       - Se
       - "\u30CB\u30E5\u30C33.mp3"
+      - 
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -432,6 +1073,8 @@ MonoBehaviour:
       - 
       - Se
       - "\u30C9\u30F3\u30C9\u30F3\u30D1\u30D5\u30D1\u30D5.mp3"
+      - 
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -442,42 +1085,50 @@ MonoBehaviour:
       - 
       - Se
       - "\u30C1\u30FC\u30F31.mp3"
+      - 
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 6
       debugIndex: 6
       strings:
-      - "\u30AF\u30A4\u30BA\u4E0D\u6B63\u89E3"
+      - "\u4E0D\u6B63\u89E3"
       - 
       - Se
       - "\u30AF\u30A4\u30BA\u4E0D\u6B63\u89E31.mp3"
+      - 
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 7
       debugIndex: 7
       strings:
-      - "\u30AF\u30A4\u30BA\u6B63\u89E3"
+      - "\u6B63\u89E3"
       - 
       - Se
       - "\u30AF\u30A4\u30BA\u6B63\u89E31.mp3"
+      - 
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 8
       debugIndex: 8
       strings:
-      - "\u30AF\u30A4\u30BA\u51FA\u984C"
+      - "\u51FA\u984C"
       - 
       - Se
       - "\u30AF\u30A4\u30BA\u51FA\u984C1.mp3"
+      - 
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/HyogoQuiz/HyogoQuiz.xls:Sound
     type: 1
-    textLength: 171
+    textLength: 178
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:

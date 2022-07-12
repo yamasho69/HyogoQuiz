@@ -6261,7 +6261,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31fc25b0d0a71db40bf7262e235c8be3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dontUseSystemSaveData: 0
+  dontUseSystemSaveData: 1
   dontSaveAuto: 0
   ignoreSoundVolume: 0
   dontSaveFullScreen: 1
@@ -6270,7 +6270,7 @@ MonoBehaviour:
   autoPageWaitSecMin: 0
   forceSkipInputCtrl: 1
   useMessageSpeedRead: 0
-  skipSpeed: 20
+  skipSpeed: 5
   skipVoiceAndSe: 0
   dontSkipLoopVoiceAndSe: 0
   defaultData:
@@ -6282,7 +6282,7 @@ MonoBehaviour:
     messageSpeed: 0.5
     messageSpeedRead: 0.5
     autoBrPageSpeed: 0.5
-    messageWindowTransparency: 0.3
+    messageWindowTransparency: 0.65
     soundMasterVolume: 1
     bgmVolume: 0.5
     seVolume: 0.5
@@ -9441,7 +9441,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BackGroundColor: {r: 0.24705882, g: 1, b: 0.98320127, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -11309,7 +11309,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 0.9843137, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
