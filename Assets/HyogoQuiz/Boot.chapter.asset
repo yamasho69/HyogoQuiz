@@ -1178,21 +1178,6 @@ MonoBehaviour:
     - rowIndex: 66
       debugIndex: 66
       strings:
-      - "\u5B66\u751F\u670D"
-      - Bg
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - gakuseifuku.png
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 67
-      debugIndex: 67
-      strings:
       - "\u795E\u6238\u663C"
       - Bg
       - 
@@ -1205,8 +1190,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 68
-      debugIndex: 68
+    - rowIndex: 67
+      debugIndex: 67
       strings:
       - "\u6DE1\u8DEF\u5CF6\u306E\u767D\u5730\u56F3"
       - Bg
@@ -1220,8 +1205,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 69
-      debugIndex: 69
+    - rowIndex: 68
+      debugIndex: 68
       strings:
       - "\u897F\u5BAE\u795E\u793E"
       - Bg
@@ -1235,8 +1220,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 70
-      debugIndex: 70
+    - rowIndex: 69
+      debugIndex: 69
       strings:
       - "\u65E5\u672C\u9152"
       - Bg
@@ -1250,8 +1235,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 71
-      debugIndex: 71
+    - rowIndex: 70
+      debugIndex: 70
       strings:
       - "\u6E29\u6CC9"
       - Bg
@@ -1265,8 +1250,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 72
-      debugIndex: 72
+    - rowIndex: 71
+      debugIndex: 71
       strings:
       - "\u7532\u5B50\u5712\u30D1\u30CE\u30E9\u30DE"
       - Bg
@@ -1280,8 +1265,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 73
-      debugIndex: 73
+    - rowIndex: 72
+      debugIndex: 72
       strings:
       - "\u30D1\u30F3"
       - Bg
@@ -1295,8 +1280,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 74
-      debugIndex: 74
+    - rowIndex: 73
+      debugIndex: 73
       strings:
       - "\u65B0\u5E79\u7DDA"
       - Bg
@@ -1310,8 +1295,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 75
-      debugIndex: 75
+    - rowIndex: 74
+      debugIndex: 74
       strings:
       - "\u9808\u78E8"
       - Bg
@@ -1327,7 +1312,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/HyogoQuiz/HyogoQuiz.xls:Texture
     type: 1
-    textLength: 1700
+    textLength: 1680
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -1702,9 +1687,69 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - BGM3
+      - 
+      - Bgm
+      - Little_Splashbyshimtone.mp3
+      - 
+      - .3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - BGM2
+      - 
+      - Bgm
+      - "\u306D\u3053\u30EF\u30FC\u30EB\u30C9byshimtone.mp3"
+      - 
+      - .3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - BGM4
+      - 
+      - Bgm
+      - "\u590F\u8272\u30B9\u30E0\u30FC\u30B8\u30FCbyshimtone.mp3"
+      - 
+      - .3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - BGM5
+      - 
+      - Bgm
+      - "\u6D77\u98A8\u306E\u901A\u308A\u9053byshimtone.mp3"
+      - 
+      - .3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - BGM1
+      - 
+      - Bgm
+      - Smile_Todaybyshimtone.mp3
+      - 
+      - .3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/HyogoQuiz/HyogoQuiz.xls:Sound
     type: 1
-    textLength: 226
+    textLength: 384
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
